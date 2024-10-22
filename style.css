@@ -1,0 +1,11 @@
+.navbar{
+    display: inline-block;
+    padding: 20px;
+    background-color: aqua;
+}
+@media screen and (width < 500px){
+    .navbar{
+        display: none;
+    }
+    
+}
